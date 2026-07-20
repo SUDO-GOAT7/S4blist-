@@ -25,3 +25,4 @@
 git clone https://github.com/SUDO-GOAT7/s4blist-
 cd s4blist-
 pip install -r requirements.txt
+python S4list.py -d example.com -v
