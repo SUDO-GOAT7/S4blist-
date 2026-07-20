@@ -1,7 +1,7 @@
 🚀 **s4blist- — The Ultimate Subdomain Scanner** 🚀  
 
 🔍 **Discover. Scan. Exploit.**  
-`sublist3r++` is the next-generation subdomain enumeration tool built for **bug bounty hunters**, **pentesters**, and **security researchers** who want speed, precision, and actionable results — all in one place.  
+`s3blist-` is the next-generation subdomain enumeration tool built for **bug bounty hunters**, **pentesters**, and **security researchers** who want speed, precision, and actionable results — all in one place.  
 
 ---
 
@@ -22,6 +22,6 @@
 
 ### 📥 Installation
 ```bash
-git clone https://github.com/your-username/sublist3r-plus-plus
-cd sublist3r-plus-plus
+git clone https://github.com/SUDO-GOAT7/s4blist-
+cd s4blist-
 pip install -r requirements.txt
